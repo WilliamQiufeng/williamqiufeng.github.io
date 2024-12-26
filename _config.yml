@@ -1,5 +1,5 @@
 # Site
-title:              Qiufeng54321
+title:              WilliamQiufeng
 bio:                'My persional Website'
 description:        "Welcome!"
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://qiufeng54321.github.io
+url:                https://williamqiufeng.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   qiufeng54321
+disqus_shortname:   williamqiufeng
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,10 +37,10 @@ disqus_shortname:   qiufeng54321
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              williamcraft@163.com
+email:              williamqiufeng@outlook.com
 #twitter:            username
 #facebook:           username
-github-url:         qiufeng54321
+github-url:         WilliamQiufeng
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
