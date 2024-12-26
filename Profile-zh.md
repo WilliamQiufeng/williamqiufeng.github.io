@@ -1,13 +1,12 @@
 # 我的资料  
 
-略  
+目前在Imperial College London攻读Computing MEng。对编译器与操作系统有浓厚兴趣。
 
-  
+有游戏编程经验，是开源音乐游戏[Quaver](https://quavergame.com)的第三贡献者。
 
-好吧正题：  
-
-我是一名12岁的中学生，~~很好吃~~ ,擅长js,java,python编程语言。  
+使用的语言主要为C#, C/C++, Python, Haskell等。
 
 ## 联系方式
 
-我的邮箱：<williamcraft@163.com>  
+我的邮箱：<williamqiufeng@outlook.com>  
+QQ：2710923955

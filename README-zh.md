@@ -5,11 +5,11 @@
 很高兴我能坚持到现在，这其中有着许许多多的困难，也同样有着朋友们的帮助，带着我一步步地解决它们，也教会了我许多。  
 
 ## 我的。。。  
-#### 我的[Github主页](https://github.com/qiufeng54321)  
-#### 我的邮箱:[williamcraft@163.com](mailto:williamcraft@163.com)  
+#### 我的[Github主页](https://github.com/williamqiufeng)  
+#### 我的邮箱:[williamqiufeng@outlook.com](mailto:williamqiufeng@outlook.com)  
 #### 我的QQ:[2710923955](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2710923955&website=www.oicqzone.com)  
 
-### 来到这里，就在在这个网站里尽情gg吧(雾)！  
+### 链接！  
 
 #### [看看我的博客](posts-zh/README.md)  
 #### [我的资料](Profile-zh.md)
